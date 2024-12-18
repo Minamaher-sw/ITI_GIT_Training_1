@@ -7,6 +7,7 @@ void main(void)
 {
    int a =10;
    int b =15 ;
-   printf("%d\n", a+b) ;
+   int c =a+b ;
+   printf("%d\n",  c) ;
     printf("Mina Maher");
 }
